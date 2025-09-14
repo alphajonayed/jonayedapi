@@ -1,4 +1,4 @@
-# 🚀 JONAYEDAPI - Best Video Downloader API for YouTube, TikTok, Facebook, Instagram & More
+# 🚀 JONAYEDAPI - Best Video Downloader API for YouTube, TikTok, Facebook, Instagram, TeraBox & More
 
 <!-- SEO Meta Description -->
 <!--
